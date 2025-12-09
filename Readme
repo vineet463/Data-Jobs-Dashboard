@@ -1,0 +1,28 @@
+This dashboard helps Job Seekers, Job Transitioners, and Job Swappers find information about the job market, which is often scattered and hard to understand. 
+It uses real job postings from 2024 in data science, including job titles, salaries, and locations. The project offers an easy way to explore market trends and salaries.
+
+Skills Showcased
+This project highlights essential features of Power BI. Here's what we learned:
+
+- Data Transformation (ETL) with Power Query**: Cleaned and organized the raw data for analysis by fixing blanks, changing data types, and adding new columns.  
+- Implicit Measures: Created measures to gain key insights and track important numbers like Median Yearly Salary and Job Count.  
+- Core Charts: Used various charts like Column, Bar, Line, and Area Charts to compare job counts and see trends over time.  
+- Geospatial Analysis: Used Map Charts to show where jobs are located worldwide.  
+- KPI Indicators & Tables: Displayed key metrics using Cards and provided detailed, sortable data through Tables.  
+- Dashboard Design: Designed a user-friendly and visually appealing layout, using both common and unique chart types to effectively communicate the data.  
+- Interactive Reporting:  
+  - Slicers: These allow users to filter the report by Job Title.  
+  - Buttons & Bookmarks: These help users navigate the dashboard smoothly.  
+  - Drill-Through: This feature enables users to go from a summary to detailed information about a specific job title.
+
+Dashboard Overview 
+The report has two pages: A high-level overview and one for detailed analysis.
+
+- Page 1: High-Level Market View  
+  This page shows key numbers like total job count, median salaries, and top job titles, giving a quick snapshot of the job market.
+
+- Page 2: Job Title Drill Through
+  Users can click to explore details for a specific job title. This includes salary ranges, work-from-home options, top hiring platforms, and a global map showing job locations.
+
+Conclusion  
+This project demonstrates how Power BI can turn raw job posting data into a useful tool for analyzing careers. It allows users to filter and explore data to make informed decisions about their career paths.
